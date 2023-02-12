@@ -1,2 +1,2 @@
 # projetos_js
-projetinho em javascript 
+projetinhos em javascript 
